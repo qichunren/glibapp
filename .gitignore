@@ -1,0 +1,17 @@
+/autom4te.cache
+.deps/
+/build
+aclocal.m4
+configure
+autoscan.log
+config.h
+config.log
+config.status
+config.guess
+config.sub
+Makefile
+Makefile.in
+stamp-h1
+*.o
+src/glibapp
+*.user
